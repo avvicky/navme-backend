@@ -1,7 +1,3 @@
-Sure, I can help you create a README file based on the code provided in the GitHub repository. Let's start by outlining the structure for each API endpoint for buses, stops, and routes:
-
----
-
 # College Bus Service API
 
 This API provides endpoints for managing buses, stops, and routes for a college bus service.
