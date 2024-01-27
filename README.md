@@ -4,7 +4,7 @@ This API provides endpoints for managing buses, stops, and routes for a college 
 
 ## Environment Variables
 
-Ensure you have a `.env` file in the root directory with the following structure:
+Ensure you have a `.env` file in the root directory with the following values:
 
 ```
 MONGODB_URI=<your MongoDB URI>
